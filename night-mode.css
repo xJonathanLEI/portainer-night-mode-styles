@@ -71,3 +71,7 @@ label,
 service-tasks-datatable > div {
   background-color: #013558 !important;
 }
+
+.searchInput {
+  color: #868686;
+}
