@@ -58,7 +58,9 @@ label,
   color: #337a88 !important;
 }
 
-.log_viewer.wrap_lines {
+.log_viewer.wrap_lines,
+select,
+input {
   color: #3498db !important;
   border-color: #013558 !important;
   background-color: #123248 !important;
@@ -73,5 +75,5 @@ service-tasks-datatable > div {
 }
 
 .searchInput {
-  color: #868686;
+  background-color: transparent !important;
 }
