@@ -1,73 +1,73 @@
 .footer,
 .table thead tr {
-  background-color: #123248;
+  background-color: #123248 !important;
 }
 
 .page,
 .pull-left,
 .toolBarTitle {
-  color: #3498db;
+  color: #3498db !important;
 }
 
 .row.header {
-  background-color: #123248;
+  background-color: #123248 !important;
 }
 
 .searchBar,
 .widget {
-  border-color: #013558;
+  border-color: #013558 !important;
 }
 
 .table tbody tr:hover {
-  background-color: #234359;
+  background-color: #234359 !important;
 }
 
 .table td {
-  color: #115866;
-  border-color: #013558;
+  color: #115866 !important;
+  border-color: #013558 !important;
 }
 
 .table th,
 .blocklist-item {
-  border-color: #673569;
+  border-color: #673569 !important;
 }
 
 .blocklist-item {
-  color: #3498db;
+  color: #3498db !important;
 }
 
 .toolBar,
 .widget-header {
-  background-color: #123248;
+  background-color: #123248 !important;
 }
 
 .widget {
-  background-color: #012137;
+  background-color: #012137 !important;
 }
 
 .widget-header {
-  border-color: #013558;
+  border-color: #013558 !important;
 }
 
 body {
-  background-color: #01263f;
+  background-color: #01263f !important;
 }
 
 label,
 .branch-preview {
-  color: #337a88;
+  color: #337a88 !important;
 }
 
 .log_viewer.wrap_lines {
-  color: #3498db;
-  border-color: #013558;
-  background-color: #123248;
+  color: #3498db !important;
+  border-color: #013558 !important;
+  background-color: #123248 !important;
 }
 
 .table-condensed tbody td {
-  background-color: #123248;
+  background-color: #123248 !important;
 }
 
 service-tasks-datatable > div {
-  background-color: #013558;
+  background-color: #013558 !important;
 }
