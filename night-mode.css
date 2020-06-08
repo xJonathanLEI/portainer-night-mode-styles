@@ -1,0 +1,73 @@
+.footer,
+.table thead tr {
+  background-color: #123248;
+}
+
+.page,
+.pull-left,
+.toolBarTitle {
+  color: #3498db;
+}
+
+.row.header {
+  background-color: #123248;
+}
+
+.searchBar,
+.widget {
+  border-color: #013558;
+}
+
+.table tbody tr:hover {
+  background-color: #234359;
+}
+
+.table td {
+  color: #115866;
+  border-color: #013558;
+}
+
+.table th,
+.blocklist-item {
+  border-color: #673569;
+}
+
+.blocklist-item {
+  color: #3498db;
+}
+
+.toolBar,
+.widget-header {
+  background-color: #123248;
+}
+
+.widget {
+  background-color: #012137;
+}
+
+.widget-header {
+  border-color: #013558;
+}
+
+body {
+  background-color: #01263f;
+}
+
+label,
+.branch-preview {
+  color: #337a88;
+}
+
+.log_viewer.wrap_lines {
+  color: #3498db;
+  border-color: #013558;
+  background-color: #123248;
+}
+
+.table-condensed tbody td {
+  background-color: #123248;
+}
+
+service-tasks-datatable > div {
+  background-color: #013558;
+}
