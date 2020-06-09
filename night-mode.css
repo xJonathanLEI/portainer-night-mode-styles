@@ -19,12 +19,25 @@
 }
 
 .table tbody tr:hover {
-  background-color: #234359 !important;
+  background-color: rgba(255, 255, 255, 0.1);
 }
 
 .table td {
   color: #115866 !important;
   border-color: #013558 !important;
+}
+
+.table tbody tr.active td {
+  background-color: rgba(255, 255, 255, 0.2);
+  color: #44aaaa !important;
+}
+
+.table tbody tr.active td a {
+  color: #999999 !important;
+}
+
+.table tbody tr.active:hover td {
+  background-color: rgba(255, 255, 255, 0.3);
 }
 
 .table th,
@@ -36,12 +49,17 @@
   color: #3498db !important;
 }
 
+.blocklist-item:hover {
+  background-color: rgba(255, 255, 255, 0.1);
+}
+
 .toolBar,
 .widget-header {
   background-color: #123248 !important;
 }
 
-.widget {
+.widget,
+table {
   background-color: #012137 !important;
 }
 
