@@ -72,8 +72,13 @@ body {
 }
 
 label,
+.node_info,
 .branch-preview {
   color: #337a88 !important;
+}
+
+.tasks .task {
+  color: white;
 }
 
 .log_viewer.wrap_lines,
